@@ -1,5 +1,9 @@
-<h1> sistema de cadastro de jogos </h1>
-> status do projeto : em desenvovimento
-para rodar esse projeto em sua máquina,pfvr :
+<h1>Sistema de cadastro de jogos</h1>]
 
-...npm install react...
+>Status do projeto : em desenvolvimento
+
+para rodar esse projeto na sua máquina,por favor digite:
+
+```
+npm install react
+```
